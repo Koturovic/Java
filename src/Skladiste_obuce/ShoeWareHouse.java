@@ -1,3 +1,7 @@
+package Skladiste_obuce;
+
+import Skladiste_obuce.Order;
+
 import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

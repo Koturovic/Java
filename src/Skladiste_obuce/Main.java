@@ -1,4 +1,5 @@
-import javax.swing.*;
+package Skladiste_obuce;
+
 import java.util.Collections;
 import java.util.Random;
 import java.util.concurrent.*;
